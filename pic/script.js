@@ -1,88 +1,88 @@
 console.log('R+L by barlord')
 let sky1 ={
-    photo: '/img/sky1.jpg',
+    photo: '/pic/img/sky1.jpg',
     title: 'Napfelkelte Berlinben',
     description: 'Az iskolába menet keszült fotó berlinből',
 };
 let ship=  {
-    photo: '/img/ship.jpg',
+    photo: '/pic/img/ship.jpg',
     title: 'Berlini hajó',
     description: 'Philippel voltunk egy nagyon menő expoon',
 }
 let andrassy=  {
-    photo: '/img/andrassy.jpg',
+    photo: '/pic/img/andrassy.jpg',
     title: 'Andrassy út',
     description: 'Egy naplemente az andrássy útról nézve',
 }
 let berlin=  {
-    photo: '/img/berlin.jpg',
+    photo: '/pic/img/berlin.jpg',
     title: 'Berlini emlékek ',
     description: 'Berlini utazásaim emléke egy hógömbben',
 }
 let duna=  {
-    photo: '/img/duna.jpg',
+    photo: '/pic/img/duna.jpg',
     title: 'A duna tavasszal',
     description: 'Tavaszi virágok a duna mellett',
 }
 let forest=  {
-    photo: '/img/forest.jpg',
+    photo: '/pic/img/forest.jpg',
     title: 'Kirándulás az egri vár makettjéhez',
     description: 'Egy geoláda megtalálása után keszült',
 }
 let htwon=  {
-    photo: '/img/htown.jpg',
+    photo: '/pic/img/htown.jpg',
     title: 'Potsdami karácsonyi vásár',
     description: 'Egy szép holland negyed potsdamban karácsonykor',
 }
 let kakao=  {
-    photo: '/img/kakao.jpg',
+    photo: '/pic/img/kakao.jpg',
     title: 'Esti Kakaó',
     description: 'Egy jó nap lezárása ez a kakaó',
 }
 let level=  {
-    photo: '/img/level.jpg',
+    photo: '/pic/img/level.jpg',
     title: 'Eső',
     description: 'Miközben vártam a fuvarom berlinben esett az eső',
 }
 let mchernobyl=  {
-    photo: '/img/mchernobyl.jpg',
+    photo: '/pic/img/mchernobyl.jpg',
     title: 'Magyar Chernobyl',
     description: 'Szilveszteri kirándulás közben egy elhagyatott telepen keszült',
 }
 let moha=  {
-    photo: '/img/moha.jpg',
+    photo: '/pic/img/moha.jpg',
     title: 'Moha',
     description: 'Az új házam miután el kellett költöznöm berlinben',
 }
 let muzeum=  {
-    photo: '/img/muzeum.jpg',
+    photo: '/pic/img/muzeum.jpg',
     title: 'Muzeum',
     description: 'a Szépmüvészeti Múzeum',
 }
 let sky=  {
-    photo: '/img/sky.jpg',
+    photo: '/pic/img/sky.jpg',
     title: 'Felhők',
     description: 'Kilátás az ablakomból',
 }
 let sky2=  {
-    photo: '/img/sky2.jpg',
+    photo: '/pic/img/sky2.jpg',
     title: 'Naplemente berlinben',
     description: 'A berlini iskola udvarán keszült kép',
 
 }
 let sky3=  {
-    photo: '/img/sky3.jpg',
+    photo: '/pic/img/sky3.jpg',
     title: 'Az utolsó Berlini nap',
     description: 'Uton a reptérre keszült ez a kép berlinben',
 
 }
 let sky4=  {
-    photo: '/img/sky4.jpg',
+    photo: '/pic/img/sky4.jpg',
     title: 'Festett égbolt',
     description: 'Az egyik nap edzésre menet keszült ez a festői kép',
 }
 let szhid=  {
-    photo: '/img/szhid.jpg',
+    photo: '/pic/img/szhid.jpg',
     title: 'Szabadság híd ',
     description: 'A gellért hegy a nyugodt Duna és a Gellért szálló',
 }
