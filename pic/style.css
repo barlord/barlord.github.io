@@ -1,8 +1,8 @@
 .display {
     display: flex;
-    width: 2300px;
+    width: 575px;
     justify-content: flex-start;
-    padding-top: 200px;
+    padding-top: 50px;
     margin: auto auto;
 }
 .bodycopy {
@@ -20,31 +20,31 @@ body {
 }
 .jobbnyil {
     transform:rotate(180deg);
-    padding-top: 675px;
-    padding-bottom: 675px;
-    height: 50px;
+    padding-top: 168px;
+    padding-bottom: 168px;
+    height: 12.5px;
     background: #d0d5db;
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
     }
 .szurke {
- height: 1400px;
- width: 400px;
+ height: 350px;
+ width: 100px;
  text-align: center;
  background: #d0d5db;
- border-radius: 10px;;
+ border-radius: 2.5px;;
 }
 .balnyil {
-    padding-top: 675px;
-    padding-bottom: 675px;
-    height: 50px;
+    padding-top: 168px;
+    padding-bottom: 168px;
+    height: 12.5px;
     background: #d0d5db;
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 .sky1 {
     width:auto;
-    height:1400px ;
+    height:350px ;
     z-index: -1;
     position: relative;
     z-index: -1;
@@ -58,32 +58,32 @@ cursor: pointer;
 }
 .szoveg { 
      position: absolute;
-     bottom: 30px;
+     bottom: 7px;
     color:white;
     width:auto;
     background: black;
     opacity: 0.4;
 }
-.meret {font-size: 70px;
+.meret {font-size:17px;
 ;}
 .tnail {
-    height: 200px;
+    height: 50px;
     width: auto;
-    border: white solid 7px;
-    box-shadow: 23px 22px 43px 6px rgba(0,0,0,0.64);
-    margin-right: 80px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    border: white solid 2px;
+    box-shadow: 5px 5px 10px 6px rgba(0,0,0,0.64);
+    margin-right: 20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
     
 }
 .tnail_cont {
    display: flex;
    flex-wrap: wrap;
-   width:2380px;
+   width:605px;
    margin-left: 80px;
 }
 .tnail:hover {
-    height:350px ;
+    height:87px ;
 }
 .lebegtart {
     position: relative;
@@ -91,17 +91,17 @@ cursor: pointer;
 }
 .lebeg {
     position: absolute;
-    top: 58%;
+    top: 55%;
   right: 105%;
     width:auto;
-    margin-left: -170px;
+    margin-left: -42px;
     visibility: hidden;
     background: black;
     color: white;
     opacity: 0.5;
-    font-size: 40px;
-    padding: 15px 15px;
-    border-radius: 9px;
+    font-size: 10px;
+    padding: 6px 6px;
+    border-radius: 2px;
 
 }
 .lebegtart:hover .lebeg {
@@ -112,8 +112,8 @@ cursor: pointer;
   position: absolute;
   top: 50%;
   left: 100%; /* To the right of the tooltip */
-  margin-top: -30px;
-  border-width: 30px;
+  margin-top: -7px;
+  border-width: 7px;
   border-style: solid;
   border-color: transparent transparent transparent black;
 }
