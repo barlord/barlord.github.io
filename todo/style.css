@@ -1,7 +1,8 @@
-h2 {color: rgb(26, 112, 156);
+h2 {color: rgb(38, 111, 148);
     }
 body {
-    background: rgb(110, 104, 221);
+    background: rgb(117,97,167);
+background: linear-gradient(180deg, rgba(117,97,167,1) 32%, rgba(47,143,189,1) 69%);
 background-size: cover;
 background-repeat: no-repeat;
 text-align: center;
