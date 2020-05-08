@@ -1,0 +1,64 @@
+h2 {color: rgb(26, 112, 156);
+    }
+body {
+    background: rgb(110, 104, 221);
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+height: auto;
+font-family: 'Baloo 2', cursive;
+}
+main {
+    width:350px;
+ margin-left:auto ;
+ margin-right: auto;
+ background: #ebf8fa;
+ border-radius: 10px;
+  text-align: center;
+  margin-bottom: 500px;
+  margin-top: 100px;
+}
+img {
+    height: 20px;
+    width:  20px;
+    
+}
+img:hover {
+    cursor: pointer;
+}
+li  {
+    list-style-type: none;
+    
+}
+.completed {
+    opacity: 0.2;
+    width: auto;
+}
+.alap {
+    width: 20px;
+    height: 20px;
+}
+.deleted {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+
+}
+#addtodo {
+    border-radius: 4px;
+    background-color: lightblue;
+    opacity: 0.8;
+    box-shadow: 2px 2px 15px;
+    margin-bottom: 30px;
+}
+#todo{
+    border-radius: 8px;
+    
+    opacity: 0.8;
+    box-shadow: 2px 6px 15px;
+    margin-bottom: 30px;
+}
+.inside {
+    margin-right: 30px;
+}
