@@ -6,9 +6,9 @@ $('#addtodo').click(() =>{
     console.log("he?")
     $('ul').append(
         `<li >${todo}  
-        <img src="/img/pipa.svg" alt="tick" class='done' >
+        <img src="/todo/img/pipa.svg" alt="tick" class='done' >
         
-        <img src="/img/iconfinder_25_2135797.svg" alt="tick" class='delete' class="alap" >
+        <img src="/todo/img/iconfinder_25_2135797.svg" alt="bin" class='delete' class="alap" >
        
         `)
     
