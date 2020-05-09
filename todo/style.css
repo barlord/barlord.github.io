@@ -52,7 +52,13 @@ li  {
     opacity: 0.8;
     box-shadow: 2px 2px 15px;
     margin-bottom: 30px;
+transition-duration: 0.4s;
 }
+
+  button:hover {
+    background-color: ; /* Green */
+    color: white;
+  }
 #todo{
     border-radius: 8px;
     
